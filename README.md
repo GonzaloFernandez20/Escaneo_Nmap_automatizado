@@ -5,6 +5,6 @@ Este script en Bash automatiza el uso de Nmap para realizar escaneos de segurida
 ## Ejecución
 
 ```bash
-sudo ./nmap.sh
+sudo ./nmap.sh ,<ip_de_red>
 ```
 Solo necesitas proporcionar una dirección IP, y el script realizará un escaneo completo sin intervención adicional.
